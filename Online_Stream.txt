@@ -1,0 +1,31 @@
+!License:MIT
+!Deny online Stream
+!20230807
+0.0.0.0 8maple.io
+0.0.0.0 8maple.it
+0.0.0.0 8maple.tv
+0.0.0.0 arabnewsworld.com
+0.0.0.0 dramasq.cc
+0.0.0.0 fenglintv.com
+0.0.0.0 gimy.app
+0.0.0.0 gimy.app
+0.0.0.0 gimy.su
+0.0.0.0 gimytw.cc
+0.0.0.0 imaple.top
+0.0.0.0 imaple8.co
+0.0.0.0 mod.cht.com.tw
+0.0.0.0 pttplay.cc
+0.0.0.0 video.friday.tw
+0.0.0.0 video.friday.tw
+0.0.0.0 www.catchplay.com
+0.0.0.0 www.hulu.com
+0.0.0.0 www.iq.com
+0.0.0.0 www.kktv.me
+0.0.0.0 www.linetv.tw
+0.0.0.0 www.litv.tv
+0.0.0.0 www.litv.tv
+0.0.0.0 www.myvideo.net.tw
+0.0.0.0 www.myvideo.net.tw
+0.0.0.0 www.netflix.com
+0.0.0.0 www.ofiii.com
+0.0.0.0 楓林網.com
