@@ -8,7 +8,7 @@
 0.0.0.0 mail.qq.com
 0.0.0.0 login.aol.com
 0.0.0.0 mail.com
-0.0.0.0 www.126.com
+0.0.0.0 logins.daum.net
 0.0.0.0 webmail.hinet.net
 0.0.0.0 tutanota.com
 0.0.0.0 www.icloud.com
@@ -28,3 +28,11 @@
 0.0.0.0 mail.ncu.edu.tw
 0.0.0.0 mail.nanya.edu.tw
 0.0.0.0 mail.uch.edu.tw
+0.0.0.0 webmailer.1und1.de
+0.0.0.0 mail.126.com
+0.0.0.0 www.126.com
+0.0.0.0 login.xfinity.com
+0.0.0.0 app.fastmail.com
+0.0.0.0 wm.tku.edu.tw
+0.0.0.0 secure.hushmail.com
+0.0.0.0 mail.ru
