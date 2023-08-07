@@ -1,24 +1,30 @@
-#Webmail
-mail.google.com
-outlook.live.com
-mail.yahoo.com
-www.mail.com
-webmail.hinet.net
-proton.me
-360.yandex.com
-clean.email
-www.gmx.com
-tutanota.com
-login.aol.com
-vip.qq.com
-vip.sina.com
-sina.cn
-sina.com
-sinamail.com
-126.cn
-foxmail.cn
-foxmail.com.cn
-qq.com.cn
-sina.com.cn
-tom.cn
-tom.com.cn
+! License:MIT
+! Release:20230807
+! DROP Knowen Webmail
+0.0.0.0 mail.google.com
+0.0.0.0 outlook.live.com
+0.0.0.0 mail.yahoo.com
+0.0.0.0 proton.me
+0.0.0.0 mail.qq.com
+0.0.0.0 login.aol.com
+0.0.0.0 mail.com
+0.0.0.0 www.126.com
+0.0.0.0 webmail.hinet.net
+0.0.0.0 tutanota.com
+0.0.0.0 www.icloud.com
+0.0.0.0 360.yandex.com
+0.0.0.0 www.zoho.com
+0.0.0.0 10minutemail.net
+0.0.0.0 www.gmx.com
+0.0.0.0 trustifi.com
+0.0.0.0 mailfence.com
+0.0.0.0 wmail.so-net.net.tw
+0.0.0.0 nwebmail.seed.net.tw
+0.0.0.0 account.similarweb.com
+0.0.0.0 www.mail2000.com.tw
+0.0.0.0 wmail1.cc.ntu.edu.tw
+0.0.0.0 mail.cycu.edu.tw
+0.0.0.0 mail.vnu.edu.tw
+0.0.0.0 mail.ncu.edu.tw
+0.0.0.0 mail.nanya.edu.tw
+0.0.0.0 mail.uch.edu.tw
