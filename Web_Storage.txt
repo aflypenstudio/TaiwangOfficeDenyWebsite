@@ -13,6 +13,7 @@
 0.0.0.0 m.sendspace.com
 0.0.0.0 m.totodisk.com
 0.0.0.0 mega.io
+0.0.0.0 mega.nz
 0.0.0.0 memo.naver.com
 0.0.0.0 mybox.naver.com
 0.0.0.0 nid.naver.com
