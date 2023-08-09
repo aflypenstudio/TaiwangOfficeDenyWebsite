@@ -7,7 +7,9 @@
 0.0.0.0 arabnewsworld.com
 0.0.0.0 chinaqtv.co
 0.0.0.0 dramasq.cc
+0.0.0.0 eltaott.tv
 0.0.0.0 fenglintv.com
+0.0.0.0 giloo.ist
 0.0.0.0 gimy.app
 0.0.0.0 gimy.su
 0.0.0.0 gimytw.cc
@@ -17,13 +19,17 @@
 0.0.0.0 mod.cht.com.tw
 0.0.0.0 music.163.com
 0.0.0.0 music.amazon.com
+0.0.0.0 music.apple.com
 0.0.0.0 music.line.me
 0.0.0.0 music.youtube.com
+0.0.0.0 omusic.friday.tw
 0.0.0.0 plus.espn.com
 0.0.0.0 pttplay.cc
 0.0.0.0 tidal.com
 0.0.0.0 video.friday.tw
 0.0.0.0 www.catchplay.com
+0.0.0.0 www.faintv.com.tw
+0.0.0.0 www.gagaoolala.com
 0.0.0.0 www.hulu.com
 0.0.0.0 www.hulu.jp
 0.0.0.0 www.iq.com
@@ -34,6 +40,8 @@
 0.0.0.0 www.linetv.tw
 0.0.0.0 www.litv.tv
 0.0.0.0 www.max.com
+0.0.0.0 www.muzikair.com
+0.0.0.0 www.mymusic.net.tw
 0.0.0.0 www.myvideo.net.tw
 0.0.0.0 www.netflix.com
 0.0.0.0 www.ofiii.com
