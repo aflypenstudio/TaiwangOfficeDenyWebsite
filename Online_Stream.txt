@@ -1,6 +1,7 @@
-!License:MIT
-!Deny online Stream
-!20230807
+! License:MIT
+! Deny online Stream
+! Veriosn 20230809
+! Drop Online Streaming VIDEO & MUSIC
 0.0.0.0 8maple.io
 0.0.0.0 8maple.it
 0.0.0.0 8maple.tv
