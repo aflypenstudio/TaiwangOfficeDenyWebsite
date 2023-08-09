@@ -2,6 +2,8 @@
 ! Release:20230807
 ! Drop Pron Server Deny
 0.0.0.0 t66y.com
+0.0.0.0 tanhuazu.com
+0.0.0.0 anidex.info
 0.0.0.0 sukebei.nyaa.si
 0.0.0.0 076.wagutj.com
 0.0.0.0 0b66.fjrpdz.com
