@@ -8,7 +8,6 @@
 0.0.0.0 dramasq.cc
 0.0.0.0 fenglintv.com
 0.0.0.0 gimy.app
-0.0.0.0 gimy.app
 0.0.0.0 gimy.su
 0.0.0.0 gimytw.cc
 0.0.0.0 imaple.top
@@ -16,15 +15,12 @@
 0.0.0.0 mod.cht.com.tw
 0.0.0.0 pttplay.cc
 0.0.0.0 video.friday.tw
-0.0.0.0 video.friday.tw
 0.0.0.0 www.catchplay.com
 0.0.0.0 www.hulu.com
 0.0.0.0 www.iq.com
 0.0.0.0 www.kktv.me
 0.0.0.0 www.linetv.tw
 0.0.0.0 www.litv.tv
-0.0.0.0 www.litv.tv
-0.0.0.0 www.myvideo.net.tw
 0.0.0.0 www.myvideo.net.tw
 0.0.0.0 www.netflix.com
 0.0.0.0 www.ofiii.com
