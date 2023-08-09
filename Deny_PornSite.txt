@@ -1,10 +1,6 @@
 ! License:MIT
 ! Release:20230807
 ! Drop Pron Server Deny
-0.0.0.0 t66y.com
-0.0.0.0 tanhuazu.com
-0.0.0.0 anidex.info
-0.0.0.0 sukebei.nyaa.si
 0.0.0.0 076.wagutj.com
 0.0.0.0 0b66.fjrpdz.com
 0.0.0.0 0cad.hyfyff.com
@@ -73,6 +69,7 @@
 0.0.0.0 aishe001.xyz
 0.0.0.0 allporncomic.com
 0.0.0.0 amoi69.com
+0.0.0.0 anidex.info
 0.0.0.0 animeidhentai.com
 0.0.0.0 anon-v.com
 0.0.0.0 anyporn.com
@@ -395,6 +392,7 @@
 0.0.0.0 spankbang.com
 0.0.0.0 spnati.net
 0.0.0.0 studiofow.com
+0.0.0.0 sukebei.nyaa.si
 0.0.0.0 summertimesaga.com
 0.0.0.0 supjav.com
 0.0.0.0 svscomics.com
