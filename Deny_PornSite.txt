@@ -1,5 +1,6 @@
 ! License:MIT
 ! Release:20230807
+! Update:20230923
 ! Drop Pron Server Deny
 0.0.0.0 076.wagutj.com
 0.0.0.0 0b66.fjrpdz.com
