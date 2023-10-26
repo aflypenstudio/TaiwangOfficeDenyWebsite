@@ -1,0 +1,16 @@
+! YouTube: redirect homepage to watch later
+||youtube.com#%#if ( ["/", "/home"].includes(location.pathname) ) { location.pathname = '/feed/subscriptions' };
+
+! YouTube: hide links to home and within the trending sidebar
+||youtube.com###items > ytd-guide-entry-renderer.style-scope.ytd-guide-section-renderer:first-child
+||youtube.com###items > ytd-guide-entry-renderer.style-scope.ytd-guide-section-renderer:nth-child(2)
+
+! YouTube: hide comments (they are just noise/interference now, memetic viruses competing for proliferation)
+||youtube.com##ytd-comments
+
+! YouTube: hide sidebar (it's intent is to provide distactions that capitalise your attention)
+||youtube.com###secondary
+
+! YouTube: hide view counts
+||youtube.com###metadata-line.ytd-grid-video-renderer>.ytd-grid-video-renderer:first-of-type
+||youtube.com###metadata-line.ytd-grid-video-renderer>.ytd-grid-video-renderer:not(:first-of-type)::before
