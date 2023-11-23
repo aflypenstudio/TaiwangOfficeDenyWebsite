@@ -1,0 +1,4 @@
+! 20231123 for ADBlock
+! remove youtube ad-blocks detect
+youtube.com##ytd-popup-container
+youtube.com##tp-yt-iron-overlay-backdrop
