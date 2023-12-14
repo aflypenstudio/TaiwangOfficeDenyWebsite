@@ -1,4 +1,10 @@
 ! 20231123 for ADBlock
 ! remove youtube ad-blocks detect
-youtube.com##ytd-popup-container
-youtube.com##tp-yt-iron-overlay-backdrop
+! youtube.com##ytd-popup-container
+! youtube.com##tp-yt-iron-overlay-backdrop
+
+! 20231214 for ADBlock
+youtube.com##+js(set, yt.config_.openPopupConfig.supportedPopups.adBlockMessageViewModel, false)
+youtube.com##+js(set, Object.prototype.adBlocksFound, 0)
+youtube.com##+js(set, ytplayer.config.args.raw_player_response.adPlacements, [])
+youtube.com##+js(set, Object.prototype.hasAllowedInstreamAd, true)
